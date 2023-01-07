@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,500;1,400&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+body {
+
+    height: 100vh;
+    background: linear-gradient(120deg, rgb(43, 75, 161), #fa0808f3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.relo {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    width: 550px;
+    background-color: transparent;
+    border-radius: 3px;
+    box-shadow: 0px 8px 10px rgb(0, 0, 0);
+}
+
+
+.relo div {
+
+    height:  170px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    background: rgb(0, 0, 0);
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    border-radius: 7px;
+    letter-spacing: 4px;
+
+}
+
+.relo span {
+
+        font-weight: bolder;
+        font-size:70px;
+}
+
+.relo span.tempo {
+        
+        font-size: 13px;
+}
