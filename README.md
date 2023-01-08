@@ -1,7 +1,7 @@
-Site simples visualizador de horas ⌚
+## Site simples visualizador de horas ⌚
 
-Tecnologias utilizadas: Html, CSS e JavaScript
+- Html, CSS e JavaScript
 
 
-Link:
+ - Link:
 https://th3ai99la.github.io/site-relogio-digital/
